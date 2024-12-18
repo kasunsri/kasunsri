@@ -17,7 +17,7 @@
 <a href="https://instagram.com/kasun_sri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasun_sri_" height="30" width="40" /></a>
 <a href="https://www.behance.net/kasunsri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kasunsri" height="30" width="40" /></a>
 <a href="https://medium.com/@kasun_sri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kasun_sri_" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/kasun sri](https://youtube.com/@kasunsri?si=kp3vawFQO2P0nvFy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasun sri" height="30" width="40" /></a>
+<a href="https://youtube.com/@kasunsri?si=kp3vawFQO2P0nvFy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasun sri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
