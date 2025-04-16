@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasun Sri Buddika</h1>
 <h3 align="center">A frontend developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunsri" alt="kasunsri" /></a> </p>
-
 - 💬 Ask me about **frontend development, Ui/Ux Design**
 
 - 📫 How to reach me **buddikakb4@gmail.com**
