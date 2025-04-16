@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasun Sri Buddika</h1>
 <h3 align="center">A frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunsri&label=Profile%20views&color=0e75b6&style=flat" alt="kasunsri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunsri" alt="kasunsri" /></a> </p>
 
 - 💬 Ask me about **frontend development, Ui/Ux Design**
