@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasun Sri Buddika</h1>
-<h3 align="center">A frontend developer from Sri Lanka</h3>
+<h3 align="center">A full stack developer from Sri Lanka</h3>
 
-- 💬 Ask me about **frontend development, Ui/Ux Design**
+- 💬 Ask me about **full stack development, Mobile App Development, Ui/Ux Design**
 
 - 📫 How to reach me **buddikakb4@gmail.com**
 
